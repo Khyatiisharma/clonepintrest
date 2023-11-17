@@ -1,4 +1,5 @@
 # clonepintrest
 this gives you the clone for webpage of pintrest
 <br>
-author:khyati sharma
+author:khyati Sharmagit status
+
